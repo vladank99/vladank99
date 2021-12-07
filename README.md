@@ -18,11 +18,18 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" 
+src="https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Desktop-Logo.svg"></code>
+<code><img height="20" 
+src="https://avatars.githubusercontent.com/u/10746780?s=280&v=4"></code>
+<code><img height="20" 
+src="https://w7.pngwing.com/pngs/550/631/png-transparent-command-line-interface-hackathon-linux-macos-macbook-angle-electronics-rectangle.png"></code>
+<code><img height="20" 
+src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"></code>
+<code><img height="20" 
+src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png"></code>
+<code><img height="20" 
+src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
