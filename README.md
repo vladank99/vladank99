@@ -16,20 +16,15 @@
 <br />
 
   
-**Languages and Tools:**  
+**Мой стэк:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" 
-src="https://w7.pngwing.com/pngs/550/631/png-transparent-command-line-interface-hackathon-linux-macos-macbook-angle-electronics-rectangle.png"></code>
-<code><img height="20" 
-src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png"></code>
-<code><img height="20" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img height="20" 
-src="https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Desktop-Logo.svg"></code>
-<code><img height="20" 
-src="https://avatars.githubusercontent.com/u/10746780?s=280&v=4"></code>
+src="![image](https://user-images.githubusercontent.com/95710420/158062969-bded4a48-e39e-4b4f-b63d-614646e8a640.png)"></code>
+
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
