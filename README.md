@@ -23,3 +23,10 @@
 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img height="20" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png"></code>
+
+<br />
+
+**Образование:**  
+
+Бакалавриат <br>            НИУ ВШЭ
+2016 - 2020 
