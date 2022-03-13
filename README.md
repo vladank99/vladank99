@@ -14,7 +14,7 @@
   <img align="left" alt="linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 <a href="https://hh.ru/applicant/resumes/view?resume=5e05f2f5ff05586a4a0039ed1f634d76637a51">
-  <img align="left" alt="hh" width="2px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>
+  <img align="left" alt="Yandex" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>
 </a>
 
 <br >
