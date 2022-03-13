@@ -18,11 +18,9 @@
 Влад Анкушев, психолог-рисерчер, аналитик.    
 Учусь на первом курсе магистратуры "Позитивная Психология", ВШЭ.   
 Прохожу курс – "Аналитик Данных"  karpov.courses
-   
-   
-   
-   
-   
+
+<br >
+
 ### Мой стэк
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -31,7 +29,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg
 <code><img height="40" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png"></code>
 
-
+<br >
 ### Образование
 *Бакалавриат* – "Психология"   
 НИУ ВШЭ    
@@ -45,6 +43,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 НИУ ВШЭ   
 2021 - 2023   
 
+<br >
 
 ### Опыт работы
 
