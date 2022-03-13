@@ -8,7 +8,7 @@
   <img align="left" alt="Abhishek's Telegram" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
 </a>
 <a href="vladislavankushev@yandex.ru">
-  <img align="left" alt="Yandex" width="23px" src="https://img.icons8.com/ios/50/000000/email-open.png"/>
+  <img align="left" alt="Yandex" width="23px" src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png"/>
 </a>
 <a href="https://www.linkedin.com/in/vladislav-ankushev-8b43771ab">
   <img align="left" alt="Yandex" width="23px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
