@@ -8,8 +8,10 @@
   <img align="left" alt="Abhishek's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="vladislavankushev@yandex.ru">
-  <img align="left" alt="Yandex" width="20px" src="http://assets.stickpng.com/thumbs/58485698e0bb315b0f7675a8.png" />
+  <img align="left" alt="Yandex" width="20px" src="https://img.icons8.com/ios/50/000000/email-open.png"/>
 </a>
+
+
 
 <br /> <br>
 Влад Анкушев, студент. Учусь на первом курсе магистратуры "Позитивная Психология", ВШЭ. <br> <br>
