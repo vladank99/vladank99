@@ -32,6 +32,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 <br />
 
 **Образование:**  
-Бакалавриат: Психология 
+Бакалавриат – Психология    
 НИУ ВШЭ    
 2016 - 2020 
