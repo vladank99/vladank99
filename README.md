@@ -1,7 +1,6 @@
 ## Всем Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
----- 
-### Социальные сети
 
+### Социальные сети
 <a href="https://vk.com/id370061250">
   <img align="left" alt="VKontakte" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -13,6 +12,7 @@
 </a>
 
 <br >
+### О себе:
 Влад Анкушев, студент. Учусь на первом курсе магистратуры "Позитивная Психология", ВШЭ. <br> <br>
 Прохожу курс – "Аналитик Данных"  karpov.courses
 
