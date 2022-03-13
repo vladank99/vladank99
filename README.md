@@ -12,7 +12,6 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://www.meme-arsenal.com/memes/f842a02bd62eceb0e19a39d613d7da3c.jpg" width="400" height="280" />
   
 **Languages and Tools:**  
 
