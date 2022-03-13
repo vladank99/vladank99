@@ -12,8 +12,9 @@
   <img align="left" alt="Yandex" width="23px" src="https://img.icons8.com/ios/50/000000/email-open.png"/>
 </a>
 
-<hr>
+
 <br /> <br>
+<hr>
 Влад Анкушев, студент. Учусь на первом курсе магистратуры "Позитивная Психология", ВШЭ. <br> <br>
 Прохожу курс – "Аналитик Данных"  karpov.courses
 
