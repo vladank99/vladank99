@@ -14,13 +14,13 @@
 <br >
 <br >
 
-### О себе:
+### О себе
 Влад Анкушев, психолог-рисерчер, аналитик.    
 Учусь на первом курсе магистратуры "Позитивная Психология", ВШЭ.   
 Прохожу курс – "Аналитик Данных"  karpov.courses
 
 
-### Мой стэк: 
+### Мой стэк
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -31,7 +31,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 
 <br />
 
-**Образование:**  
+### Образование
 *Бакалавриат* – "Психология"   
 НИУ ВШЭ    
 2016 - 2020   
@@ -45,6 +45,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 2021 - 2023   
 
 
-**Опыт работы:**
+### Опыт работы
 
 
