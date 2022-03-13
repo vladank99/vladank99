@@ -5,7 +5,7 @@
   <img align="left" alt="VKontakte" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />
 </a>
 <a href="https://t.me/tiredint">
-  <img align="left" alt="Abhishek's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
 </a>
 <a href="vladislavankushev@yandex.ru">
   <img align="left" alt="Yandex" width="23px" src="https://img.icons8.com/ios/50/000000/email-open.png"/>
