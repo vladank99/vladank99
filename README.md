@@ -8,7 +8,7 @@
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="vladislavankushev@yandex.ru">
-  <img align="left" alt="Yandex" width="22px" src="https://w7.pngwing.com/pngs/575/200/png-transparent-email-symbol-computer-icons-encapsulated-postscript-send-email-button-miscellaneous-angle-text.png" />
+  <img align="left" alt="Yandex" width="22px" src="https://svgsilh.com/svg_v2/44042.svg" />
 </a>
 
 <br /> <br>
