@@ -10,7 +10,8 @@
 <a href="vladislavankushev@yandex.ru">
   <img align="left" alt="Yandex" width="23px" src="https://img.icons8.com/ios/50/000000/email-open.png"/>
 </a>
-
+	
+<hr>
 
 
 <br /> <br>
