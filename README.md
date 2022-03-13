@@ -1,4 +1,4 @@
-### Всем хеллоу! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Всем Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/id370061250">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -8,7 +8,7 @@
 
 <br />
 
-Влад Анкушев, студент. Сейчас учусь в магистратуре "Позитивная Психология", ВШЭ. 
+Влад Анкушев, студент. Учусь на первом курсе магистратуры "Позитивная Психология", ВШЭ. 
 
 <br />
 
@@ -16,8 +16,6 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" 
-src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" 
 src="https://w7.pngwing.com/pngs/550/631/png-transparent-command-line-interface-hackathon-linux-macos-macbook-angle-electronics-rectangle.png"></code>
