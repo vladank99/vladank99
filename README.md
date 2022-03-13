@@ -2,7 +2,7 @@
 
 ### Связаться со мной
 <a href="https://vk.com/id370061250">
-  <img align="left" alt="VKontakte" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  <img align="left" alt="VKontakte" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />
 </a>
 <a href="https://t.me/tiredint">
   <img align="left" alt="Abhishek's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
