@@ -24,12 +24,3 @@
 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img height="20" 
 src="![image](https://user-images.githubusercontent.com/95710420/158062969-bded4a48-e39e-4b4f-b63d-614646e8a640.png)"></code>
-
-
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [ ] Сдать сессию
-* [ ] Пройти курс по Git на Slurm
-* [ ] Пройти Karpov Courses      
-* [ ] Найти работу(((
-<!-- TODO-IST:END -->
