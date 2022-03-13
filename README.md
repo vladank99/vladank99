@@ -27,6 +27,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 <br />
 
 **Образование:**  
-
-Бакалавриат <br>            НИУ ВШЭ
+Бакалавриат            НИУ ВШЭ <br> 
 2016 - 2020 
