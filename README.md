@@ -8,7 +8,7 @@
 
 ### Связаться со мной
 <a href="https://vk.com/id370061250">
-  <img align="left" alt="VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />
+  <img align="left" alt="VKontakte" width="30px" src="https://gregory-gost.ru/wp-content/uploads/2019/06/vk-logo.png" />
 </a>
 <a href="https://t.me/tiredint">
   <img align="left" alt="Abhishek's Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
