@@ -1,4 +1,4 @@
-## Всем Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Всем Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Связаться со мной
 <a href="https://vk.com/id370061250">
