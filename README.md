@@ -37,6 +37,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 
 <hr>
 
+
 ### Проекты на Гитхабе
 - Проект e-learning (в рамках обучения на karpov.courses; Python)
 - Дипломный проект – "Адаптация зарубежных шкал" (в рамках на бакалавриате; R-studio)
