@@ -1,25 +1,26 @@
 ## Всем Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### О себе
-- Влад Анкушев, 22 года, психолог-рисерчер, аналитик.    
+- Влад Анкушев, 22 года
+- Психолог-рисерчер, младший аналитик.    
 - Учусь на первом курсе магистратуры "Позитивная Психология", ВШЭ.   
 - Прохожу курс – "Аналитик Данных"  karpov.courses
 
 ### Связаться со мной
 <a href="https://vk.com/id370061250">
-  <img align="left" alt="VKontakte" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />
+  <img align="left" alt="VKontakte" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />
 </a>
 <a href="https://t.me/tiredint">
-  <img align="left" alt="Abhishek's Telegram" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
 </a>
 <a href="vladislavankushev@yandex.ru">
-  <img align="left" alt="Yandex" width="24px" src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png"/>
+  <img align="left" alt="Yandex" width="22px" src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png"/>
 </a>
 <a href="https://www.linkedin.com/in/vladislav-ankushev-8b43771ab">
   <img align="left" alt="linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 <a href="https://hh.ru/applicant/resumes/view?resume=5e05f2f5ff05586a4a0039ed1f634d76637a51">
-  <img align="left" alt="Yandex" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>
+  <img align="left" alt="Yandex" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>
 </a>
 
 <br >
