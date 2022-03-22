@@ -60,3 +60,21 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 - Бакалавриат – "Психология" (НИУ ВШЭ, 2016 - 2020)
 - Магистратура – "Прикладная статистика с методами сетевого анализа" (НИУ ВШЭ, академический отпуск)
 - Магистратура  – "Позитивная психология" (НИУ ВШЭ, 2021 - 2023)
+
+<br >
+
+### Онлайн | Офлайн курсы 
+<b> Coursera: </b>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/7R6UUBGXCCN8">Improving your statistical inferences</a> (2020, 28 июля)
+- <a href="https://www.coursera.org/account/accomplishments/certificate/Y7Z6LC97VWL3">Learn to Program: The Fundamentals</a> (2020, 28 июля)
+- <a href="https://www.coursera.org/account/accomplishments/certificate/CPY2GH7ZY643">Measuring Causal Effects in the Social Sciences</a> (2020, 28 июля)
+- <a href="https://stepik.org/cert/378453">Анализ данных в R. Часть 2</a> (2020, 23 июня)
+- <a href="https://stepik.org/cert/377582">Анализ данных в R</a> (2020, 22 июня)
+- <a href="https://stepik.org/cert/377981">Программирование на Python</a> (2020, 22 июня)
+- <a href="https://stepik.org/cert/377322">Основы программирования на R</a> (2020, 21 июня)
+- <a href="https://stepik.org/cert/377955">Основы статистики. Часть 3</a> (2020, 22 июня) 
+- <a href="https://stepik.org/cert/379556">Основы статистики. Часть 2</a> (2020, 24 июня) 
+- <a href="https://stepik.org/cert/204264">Основы статистики</a> (2019, 18 июня) 
+- <a href="https://www.coursera.org/account/accomplishments/certificate/MJ9FMZTE2DKQ">Introduction to Programming with MATLAB</a> (2018, 31 мая) 
+
+
