@@ -14,7 +14,7 @@
   <img align="left" alt="Abhishek's Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
 </a>
 <a href="vladislavankushev@yandex.ru">
-  <img align="left" alt="Yandex" width="30px" src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png"/>
+  <img align="left" alt="Yandex" width="30px" src="https://dipitest.mydigishop.biz/1VZJteH.png"/>
 </a>
 <a href="https://www.linkedin.com/in/vladislav-ankushev-8b43771ab">
   <img align="left" alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
