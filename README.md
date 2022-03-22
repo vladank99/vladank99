@@ -35,6 +35,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png"></code>
 
 <hr>
+
 ### Опыт работы
 #### Студия Артемия Лебедева – "Стратег"   
 Проведение двух юзабилити-исследований   
