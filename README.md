@@ -63,7 +63,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 
 <br >
 
-### Онлайн | Офлайн курсы 
+### Онлайн курсы 
 <b> Coursera: </b>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/7R6UUBGXCCN8">Improving your statistical inferences</a> 
 - <a href="https://www.coursera.org/account/accomplishments/certificate/Y7Z6LC97VWL3">Learn to Program: The Fundamentals</a> 
