@@ -40,11 +40,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 
 <hr>
 
+<br >
 
 ### Проекты на Гитхабе
 - <a href="https://github.com/vladank99/E-Learning">Проект e-learning</a> (в рамках обучения на karpov.courses; Python)
 - <a href="https://github.com/vladank99/Diploma">Дипломный проект – "Адаптация зарубежных шкал"</a> (в рамках обучения в бакалавриате; R-studio)
 
+<br >
 
 ### Опыт работы  
 <b> Студия Артемия Лебедева – "Стратег" </b>  (стажировка: 3 месяца, 2019) 
@@ -58,12 +60,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 - Первый выйграл научный грант и по нему написаны две статьи   
 - Второй проект выйграл научную конференцию и был опубликован в зарубежном журнале   
 
+<br >
 
 ### Образование
 - Бакалавриат – "Психология" (НИУ ВШЭ, 2016 - 2020)
 - Магистратура – "Прикладная статистика с методами сетевого анализа" (НИУ ВШЭ, академический отпуск)
 - Магистратура  – "Позитивная психология" (НИУ ВШЭ, 2021 - 2023)
 
+<br >
 
 ### Онлайн курсы 
 <b> Coursera: </b>
@@ -81,6 +85,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 - <a href="https://stepik.org/cert/379556">Основы статистики. Часть 2</a>  
 - <a href="https://stepik.org/cert/377955">Основы статистики. Часть 3</a>
 
+<br >
 
 ### Научные публикации
 1. Romanova M., Ivanov A., Bogatyreva N., Terskova M., Bykov A., Ankushev V. Adaptation of the Collective Narcissism scale on a Russian-language sample. Journal of Social Psychology and Society. 2023. **in press**
