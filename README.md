@@ -85,6 +85,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 - <a href="https://stepik.org/cert/377955">Основы статистики. Часть 3</a>
 
 
-
+### Научные публикации
+1. Romanova M., Ivanov A., Bogatyreva N., Terskova M., Bykov A., Ankushev V. Adaptation of the Collective Narcissism scale on a Russian-language sample. Journal of Social Psychology and Society. 2023. **in press**
+2. Romanova M., Ivanov A., Bogatyreva N., Terskova M., Bykov A., Ankushev V. Perceived Collective Continuity: Scale Adaptation for a Russian context. Journal of Cultural-Historical Psychology. 2023. **in press**
+3. <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12528"> Ankushev V., Erohina D., Terskova M., Agadullina E. Dehumanization of Dirty Workers: The Role of Social Status. British Journal of Social Psychology. February 2022</a>
+4. <a href="https://www.figma.com/exit?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41562-021-01173-x"> Wang K., Goldenberg A., Dorison Ch. A. et al. A global test of brief reappraisal  interventions on emotions during the COVID-19 pandemic // Nature Human Behavior. August 2021</a>
 
 
