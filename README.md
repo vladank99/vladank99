@@ -85,6 +85,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 - <a href="https://stepik.org/cert/379556">Основы статистики. Часть 2</a>  
 - <a href="https://stepik.org/cert/377955">Основы статистики. Часть 3</a>
 
+<br >
 
 ### Научные публикации
 1. Romanova M., Ivanov A., Bogatyreva N., Terskova M., Bykov A., Ankushev V. Adaptation of the Collective Narcissism scale on a Russian-language sample. Journal of Social Psychology and Society. 2023. **in press**
