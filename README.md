@@ -10,11 +10,8 @@
 ### В поисках работы! 
 - Позиция – младший дата-аналитик
 - Сферы: продуктовая | HR аналитика 
-<br >
 
-### <a href="https://github.com/vladank99/E-Learning"> Резюме </a>
-
-### Связаться со мной
+### Связаться со мной и <a href="https://github.com/vladank99/E-Learning"> Резюме </a>
 <a href="https://vk.com/id370061250">
   <img align="left" alt="VKontakte" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/vk-round-color.png" />
 </a>
