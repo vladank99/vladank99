@@ -42,7 +42,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 
 ### Проекты на Гитхабе
 - <a href="https://github.com/vladank99/E-Learning">Проект e-learning</a> (в рамках обучения на karpov.courses; Python)
-- Дипломный проект – "Адаптация зарубежных шкал" (в рамках обучения в бакалавриате; R-studio)
+- <a href="https://github.com/vladank99/Diploma">Дипломный проект – "Адаптация зарубежных шкал"</a> (в рамках обучения в бакалавриате; R-studio)
 
 <br>
 
