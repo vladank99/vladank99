@@ -36,6 +36,10 @@
       <code><img height="40" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
       <code><img height="40" 
+src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg"></code>
+      <code><img height="40" 
+src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png"></code>
+      <code><img height="40" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png"></code>
 
 <hr>
