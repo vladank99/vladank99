@@ -43,7 +43,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 
 ### Проекты на Гитхабе
 - <a href="https://github.com/vladank99/Karpov.courses_projects">Проекты karpov.courses</a> (Python; SQL; Tableau)
-- <a href="https://github.com/vladank99/Diploma">Проекты ВШЭ (R-studio)
+- <a href="https://github.com/vladank99/Diploma">Проекты ВШЭ</a> (R-studio)
 <br >
 
 ### Опыт работы  
