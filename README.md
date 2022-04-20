@@ -51,7 +51,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 
 ### <a href= "https://public.tableau.com/app/profile/vladislavankushev"> Проекты в Tableau</a>
 
-<br>
+
 
 ### Опыт работы  
 <b> Студия Артемия Лебедева – "Стратег" </b>  (стажировка: 3 месяца, 2019) 
