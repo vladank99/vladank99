@@ -48,11 +48,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat
 ### Проекты на Гитхабе
 - <a href="https://github.com/vladank99/Karpov.courses_projects">Проекты во время обучения на karpov.courses</a> (Python; SQL; Tableau)
 - <a href="https://github.com/vladank99/Diploma">Проекты во время обучения в ВШЭ</a> (R-studio)
-<br >
-
 
 ### <a href= "https://public.tableau.com/app/profile/vladislavankushev"> Проекты в Tableau</a>
 
+<br>
 
 ### Опыт работы  
 <b> Студия Артемия Лебедева – "Стратег" </b>  (стажировка: 3 месяца, 2019) 
