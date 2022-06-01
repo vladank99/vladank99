@@ -13,7 +13,7 @@
 - Офис / удаленка 
 - Фултайм
 
-### Связаться со мной   |   <a href="https://drive.google.com/file/d/1ZynXNEcbSTkSMDHDVuChNT9jxHJmm1Jo/view?usp=sharing"> Резюме </a>
+### Связаться со мной   |   <a href="https://drive.google.com/file/d/1NW9DPQHIpF4JVms6fze0nSu-C6peKYrh/view?usp=sharing"> Резюме </a>
 <a href="https://vk.com/id370061250">
   <img align="left" alt="VKontakte" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/vk-round-color.png" />
 </a>
