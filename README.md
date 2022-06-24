@@ -18,13 +18,16 @@
   <img align="left" alt="VKontakte" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/vk-round-color.png" />
 </a>
 <a href="https://t.me/tiredint">
-  <img align="left" alt="Abhishek's Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+  <img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/vladislav-ankushev-8b43771ab">
   <img align="left" alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 </a>
 <a href="https://hh.ru/applicant/resumes/view?resume=5e05f2f5ff05586a4a0039ed1f634d76637a51">
-  <img align="left" alt="Yandex" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>
+  <img align="left" alt="hh" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>
+</a>
+<a href="https://career.habr.com/vladank">
+  <img align="left" alt="habr" width="30px" src="https://user-images.githubusercontent.com/95710420/175459444-ea6db9f3-5db5-4453-a69a-1b853a7e0a8f.png"/>
 </a>
 
 <br >
@@ -37,6 +40,7 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg"></code><a>&nbsp;&nbsp;&nbsp;</a>
 <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png"></code><a>&nbsp;&nbsp;&nbsp;</a>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png"></code><a>&nbsp;&nbsp;&nbsp;</a>
+
 
 <hr>
 
