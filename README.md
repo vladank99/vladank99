@@ -45,7 +45,7 @@
 <hr>
 
 ### Проекты на Гитхабе
-- <a href="https://github.com/vladank99/Karpov.courses_projects">Проекты во время обучения на karpov.courses</a> (Python; SQL; Tableau)
+- <a href="https://github.com/vladank99/Karpov.courses_projects">Проекты во время обучения на karpov.courses</a> (Python & SQL)
 - <a href="https://github.com/vladank99/Diploma">Проекты во время обучения в ВШЭ</a> (R-studio)
 
 ### <a href= "https://public.tableau.com/app/profile/vladislavankushev"> Проекты в Tableau</a>
