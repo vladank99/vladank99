@@ -14,9 +14,6 @@
 - Фултайм
 
 ### Связаться со мной   |   <a href="https://drive.google.com/file/d/1NW9DPQHIpF4JVms6fze0nSu-C6peKYrh/view?usp=sharing"> Резюме </a>
-<a href="https://vk.com/id370061250">
-  <img align="left" alt="VKontakte" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/vk-round-color.png" />
-</a>
 <a href="https://t.me/tiredint">
   <img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
 </a>
