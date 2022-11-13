@@ -99,6 +99,15 @@
 
 ---
 
+### Повышение квалификации
+<b> Риалвеб школа аналитики: </b>
+- <a href="https://drive.google.com/file/d/11fcsMheokhNQriFmm4jOXApkx0FC17lR/view?usp=sharing">Сертификат</a> 
+
+<b> Karpov.courses: </b>
+- <a href="https://drive.google.com/file/d/1hDH8cK6vCasqcyk8BBFb3k0fucGIyMsN/view?usp=sharing">Сертификат</a> 
+
+---
+
 ### Научные публикации
 1. Romanova M., Ivanov A., Bogatyreva N., Terskova M., Bykov A., Ankushev V. Adaptation of the Collective Narcissism scale on a Russian-language sample. Journal of Social Psychology and Society. 2023. **in press**
 2. Romanova M., Ivanov A., Bogatyreva N., Terskova M., Bykov A., Ankushev V. Perceived Collective Continuity: Scale Adaptation for a Russian context. Journal of Cultural-Historical Psychology. 2023. **in press**
