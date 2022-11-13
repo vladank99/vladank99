@@ -100,9 +100,9 @@
 ---
 
 ### Повышение квалификации
-<b> <a href="https://drive.google.com/file/d/11fcsMheokhNQriFmm4jOXApkx0FC17lR/view?usp=sharing"> Риалвеб школа аналитики </a> </b>
+- <b> <a href="https://drive.google.com/file/d/11fcsMheokhNQriFmm4jOXApkx0FC17lR/view?usp=sharing"> Риалвеб школа аналитики </a> </b>
 
-<b> <a href="https://drive.google.com/file/d/1hDH8cK6vCasqcyk8BBFb3k0fucGIyMsN/view?usp=sharing"> Karpov.courses </a> </b>
+- <b> <a href="https://drive.google.com/file/d/1hDH8cK6vCasqcyk8BBFb3k0fucGIyMsN/view?usp=sharing"> Karpov.courses </a> </b>
 
 ---
 
