@@ -1,25 +1,10 @@
 ## Всем Привет!
 
-### О себе
-- Влад Анкушев, 22 года
-- Психолог-рисерчер, младший аналитик
-- Учусь на втором курсе магистратуры "Позитивная Психология", ВШЭ
-- Хочу развиваться в сфере дата-аналитики
-
 ### (!) В поисках работы: младший / стажер продуктовый аналитик (удаленка)
 
 ### Связаться со мной   |   <a href="https://drive.google.com/file/d/1ggy-KmIKoVk5maZK0ILKcg8f9o_qjyg-/view?usp=sharing"> Резюме </a>
 <a href="https://t.me/tiredint">
   <img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
-</a>
-<a href="https://www.linkedin.com/in/vladislav-ankushev-8b43771ab">
-  <img align="left" alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
-</a>
-<a href="https://hh.ru/applicant/resumes/view?resume=5e05f2f5ff05586a4a0039ed1f634d76637a51">
-  <img align="left" alt="hh" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>
-</a>
-<a href="https://career.habr.com/vladank">
-  <img align="left" alt="habr" width="30px" src="https://user-images.githubusercontent.com/95710420/175459444-ea6db9f3-5db5-4453-a69a-1b853a7e0a8f.png"/>
 </a>
 
 <br >
