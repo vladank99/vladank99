@@ -1,15 +1,5 @@
 ## Всем Привет!
 
-### (!) В поисках работы: младший / стажер продуктовый аналитик (удаленка)
-
-### Связаться со мной   |   <a href="https://drive.google.com/file/d/1ggy-KmIKoVk5maZK0ILKcg8f9o_qjyg-/view?usp=sharing"> Резюме </a>
-<a href="https://t.me/tiredint">
-  <img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
-</a>
-
-<br >
-<br >
-
 ### Мой стэк
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><a>&nbsp;&nbsp;&nbsp;</a>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><a>&nbsp;&nbsp;&nbsp;</a>
