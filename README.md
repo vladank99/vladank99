@@ -7,6 +7,8 @@
 🕵️ Looking for a job in data / product analytics as working student / part-time   
 
 <br>
+<br>
+<br>
 
 ## Contact me
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><a>&nbsp;&nbsp;&nbsp;</a>
