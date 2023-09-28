@@ -4,7 +4,7 @@
 
 🧑‍💻 Master's student in UE (data science)   
 
-🕵️ Looking for a job in data / product analytics as working student / part-time
+🕵️ Looking for a job in data / product analytics as working student / part-time   
 
 
 
