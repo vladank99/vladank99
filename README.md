@@ -1,5 +1,6 @@
 ## 👋 Hey! 
-🧑‍💻 Master's student in UE (data science)    
+🧑‍💻 Master's student in UE (data science)   
+
 🕵️ Looking for a job in data / product analytics
 
 
