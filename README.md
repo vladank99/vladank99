@@ -3,11 +3,14 @@
 - &nbsp; 🧑‍💻 Master's student in UE (data science)
 - &nbsp; 🕵️ Looking for a job in data / product analytics as working student / part-time   
 
-<br>
-<br>
-<br>
-
 ## Contact me
+[![Mail Badge](https://img.shields.io/badge/vvankushev%40gmail.com-blue)](vvankushev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-ankushev)
+[![Notion Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-ankushev)
+
+
+
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><a>&nbsp;&nbsp;&nbsp;</a>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><a>&nbsp;&nbsp;&nbsp;</a>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code><a>&nbsp;&nbsp;&nbsp;</a>
