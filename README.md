@@ -1,4 +1,4 @@
-## Hey there 👋
+### Hey there 👋
 - &nbsp; 🇩🇪 Live in Germany, Berlin
 - &nbsp; 🧑‍💻 Master's student in UE (data science)
 - &nbsp; 🕵️ Looking for a job in data / product analytics as working student / internship 
