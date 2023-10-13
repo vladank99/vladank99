@@ -4,9 +4,9 @@
 - &nbsp; 🕵️ Looking for a job in data / product analytics as working student / internship 
 
 ### Contact me
-[![Mail Badge](https://img.shields.io/badge/vvankushev%40gmail.com-purple?logo=gmail)](vvankushev@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/vvankushev%40gmail.com-purple?logo=gmail)](mailto:vvankushev@yandex.ru)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-ankushev)
-[![Notion Badge](https://img.shields.io/badge/Notion--portfolio-grey?logo=notion)](https://www.linkedin.com/in/vladislav-ankushev)
+[![Notion Badge](https://img.shields.io/badge/Notion--portfolio-grey?logo=notion)](https://www.notion.so/Ankushev-Vladislav-8e1e0ca0f2ab41589d8c132634556ec1?pvs=4)
 
 ### Projects
 - <a href="https://github.com/vladank99/Karpov.courses_projects"> Karpov.courses projects </a> (Python & SQL)
