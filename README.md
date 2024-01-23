@@ -13,7 +13,6 @@
 
 
 ### Projects
-- <a href="https://github.com/vladank99/Karpov.courses_projects"> Karpov.courses projects </a> (Python & SQL)
 - <a href="https://github.com/vladank99/Diploma"> HSE projects </a> (R & Python)
 
 
